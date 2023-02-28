@@ -1,7 +1,8 @@
 ## S&P500
 
+para este proyecto utilizamos power bi para hacer las visualizaciones y mantner la informacion clara en el dasboard 
 
-Conectar PowerBI con la fuente de datos ya procesada (ya sea en .csv o .parquet)
+Conectar PowerBI con la fuente de datos ya procesada (.parquet)
 Creación de visualizaciones de los datos, tablas, gráficos y mapas
 Selección de los KPIs a medir, creación de medidas y calculo de los indicadores que se quieren evaluar
 Creación de un panel de control que muestre la información más importante y relevante
@@ -14,6 +15,9 @@ Exportación del informe en diferentes formatos para su distribución, como PDF,
 
 #PLANTEO-KPIs
 Algunos de los KPIs que se pueden plantear para el análisis del índice SP500 pueden ser:
+
+# Archibo .pbx
+https://drive.google.com/drive/folders/1I5p3TjFeIS7J7WCzntTcXejhtcwNYqMG?usp=share_link
 
 Retorno total
 Volatilidad
