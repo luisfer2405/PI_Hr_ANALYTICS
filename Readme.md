@@ -28,7 +28,7 @@ MINI-DEMO
 Se puede mostrar un gráfico que represente la evolución del índice SP500 en los últimos años y cómo ha variado la rentabilidad de las diferentes industrias que lo conforman.
 
 # ACCESO AL PROYECTO
-El código fuente del proyecto se encuentra disponible en el siguiente repositorio de Github: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard)
+El código fuente del proyecto se encuentra disponible en el siguiente repositorio de Github: (https://github.com/luisfer2405/PI_Hr_ANALYTICS)
 
 # TECNOLOGÍAS UTILIZADAS
 Python
