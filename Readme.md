@@ -13,22 +13,25 @@ Exportación del informe en diferentes formatos para su distribución, como PDF,
 ## Link del Dashboard desarrollado en PowerBI: 
 
 
-#PLANTEO-KPIs
-Algunos de los KPIs que se pueden plantear para el análisis del índice SP500 pueden ser:
+
 
 # Archibo .pbx
 https://drive.google.com/drive/folders/1I5p3TjFeIS7J7WCzntTcXejhtcwNYqMG?usp=share_link
 
-Retorno total
-Volatilidad
-Rentabilidad por industria
-Retorno por sector
-Crecimiento
-Variación a
-Mejores días para invertir
-Número de empresas con rentabilidad positiva
-Número de empresas con rentabilidad negativa
-MINI-DEMO
+# PLANTEO-KPIs
+Algunos de los KPIs que se pueden plantear para el análisis del índice SP500 pueden ser:
+-Retorno total
+-Volatilidad
+
+-Rentabilidad por industria
+-Retorno por sector
+-Crecimiento
+-Variación a
+-Mejores días para invertir
+-Número de empresas con rentabilidad positiva
+-Número de empresas con rentabilidad negativa
+
+# MINI-DEMO
 Se puede mostrar un gráfico que represente la evolución del índice SP500 en los últimos años y cómo ha variado la rentabilidad de las diferentes industrias que lo conforman.
 
 # ACCESO AL PROYECTO
