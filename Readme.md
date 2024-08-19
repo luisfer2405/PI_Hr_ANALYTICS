@@ -10,6 +10,14 @@ Diseño del informe y presentación de los resultados obtenidos a partir del an�
 Exportación del informe en diferentes formatos para su distribución, como PDF, PNG, Excel, entre otros.
 
 
+# informacion acerca de la inversion 
+
+recordando que en cada area hay ciertos conocimientos que nos ayudan a entender de mejor manera lo que son los datos procedo a dar informacion acerca de los terminos a usar y los datos a gestionar, dicho anteriormente los datos a estudios seran la bolsa de inversion SP500 la cual esta constituida por la 
+
+
+
+
+
 ## Link del Dashboard desarrollado en PowerBI: 
 
 
