@@ -1,6 +1,6 @@
-## S&P500
+# SP500
 
-para este proyecto utilizamos power bi para hacer las visualizaciones y mantner la informacion clara en el dasboard 
+para este proyecto utilizamos power bi para hacer las visualizaciones y mantner la informacion clara en el dasboard
 
 Conectar PowerBI con la fuente de datos ya procesada (.parquet)
 Creación de visualizaciones de los datos, tablas, gráficos y mapas
@@ -9,24 +9,22 @@ Creación de un panel de control que muestre la información más importante y r
 Diseño del informe y presentación de los resultados obtenidos a partir del análisis de los datos del SP500
 Exportación del informe en diferentes formatos para su distribución, como PDF, PNG, Excel, entre otros.
 
+## informacion acerca de la inversion
 
-# informacion acerca de la inversion 
+recordando que en cada area hay ciertos conocimientos que nos ayudan a entender de mejor manera lo que son los datos procedo a dar informacion acerca de los terminos a usar y los datos a gestionar, dicho anteriormente los datos a estudios seran la bolsa de inversion SP500 la cual esta constituida por las empresas mas grandes de america las cuales se unifican en un solo informe con la sp500.
 
-recordando que en cada area hay ciertos conocimientos que nos ayudan a entender de mejor manera lo que son los datos procedo a dar informacion acerca de los terminos a usar y los datos a gestionar, dicho anteriormente los datos a estudios seran la bolsa de inversion SP500 la cual esta constituida por la 
+## Procesos Pealizados en el Proyecto
 
+ se hace una extracion de la informacion en general del sp500 con 10 años de antiguedad en el cual visualisamos con matplotlib una tendecia de crecimiento en los ultimos 10 años.
 
+## Link del Dashboard desarrollado en PowerBI
 
+ Archibo .pbx
 
-
-## Link del Dashboard desarrollado en PowerBI: 
-
-
-
-
-# Archibo .pbx
-https://drive.google.com/drive/folders/1I5p3TjFeIS7J7WCzntTcXejhtcwNYqMG?usp=share_link
+<https://drive.google.com/drive/folders/1I5p3TjFeIS7J7WCzntTcXejhtcwNYqMG?usp=share_link>
 
 # PLANTEO-KPIs
+
 Algunos de los KPIs que se pueden plantear para el análisis del índice SP500 pueden ser:
 -Retorno total
 -Volatilidad
@@ -39,16 +37,17 @@ Algunos de los KPIs que se pueden plantear para el análisis del índice SP500 p
 -Número de empresas con rentabilidad positiva
 -Número de empresas con rentabilidad negativa
 
-
 # ACCESO AL PROYECTO
-El código fuente del proyecto se encuentra disponible en el siguiente repositorio de Github: (https://github.com/luisfer2405/PI_Hr_ANALYTICS)
+
+El código fuente del proyecto se encuentra disponible en el siguiente repositorio de Github: (<https://github.com/luisfer2405/PI_Hr_ANALYTICS>)
 
 # TECNOLOGÍAS UTILIZADAS
+
 Python
 Jupyter Notebook
 Pandas
 Power BI
 
-
 # DESARROLLADORES DEL PROYECTO
+
 Luis fernando Montero
