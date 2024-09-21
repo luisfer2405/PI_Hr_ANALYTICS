@@ -8,4 +8,7 @@ connection = pymysql.connect(
     database='sp500' # Nombre de la base de datos a la que te quieres conectar
 )
 
+cursor = connection.cursor()
 
+cursor.execute(
+)
